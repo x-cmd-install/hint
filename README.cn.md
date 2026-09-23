@@ -4,7 +4,7 @@
 
 💡 A hinting engine for the web
 
-[![x-cmd/install — hint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hint.svg?lang=zh)](https://x-cmd.com/install/hint)
+[![x-cmd/install — hint Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hint.svg?lang=zh)](https://x-cmd.com/install/hint)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install hint
 
 ## 流行度
 
-- **Star**: 3,703 · **Fork**: 822 · **开放 issue**: 1,891 · **贡献者**: 102
+- **Star**: 3,703 · **Fork**: 823 · **开放 issue**: 1,891 · **贡献者**: 102
 
 ## 累计统计
 
-- **发布数**: 954 · **已合并 PR**: 2582 · **开放 PR**: 158 · **已关闭 issue**: 1518 · **开放 issue**: 373 · **提交数**: 6373
+- **发布数**: 954 · **已合并 PR**: 2582 · **开放 PR**: 159 · **已关闭 issue**: 1518 · **开放 issue**: 373 · **提交数**: 6373
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 1 | 0 | 7 | 1 |
-| last180d | 2026-03-26 | 0 | 1 | 2 | 1 | 11 | 1 |
-| 360d | 2025-09-27 | 0 | 1 | 9 | 1 | 37 | 1 |
-| last720d | 2024-10-02 | 0 | 1 | 43 | 8 | 54 | 1 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-25 | 0 | 1 | 2 | 0 | 7 | 1 |
+| last180d | 2026-03-27 | 0 | 1 | 3 | 1 | 11 | 1 |
+| 360d | 2025-09-28 | 0 | 1 | 10 | 1 | 37 | 1 |
+| last720d | 2024-10-03 | 0 | 1 | 44 | 8 | 54 | 1 |
 
 ## Release 资产
 
@@ -1415,4 +1415,4 @@ hint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:33:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:49:30Z._
