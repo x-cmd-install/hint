@@ -31,8 +31,8 @@ x install hint
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
 
 ## 源代码
 
@@ -58,12 +58,12 @@ x install hint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 4 | 0 |
-| 90d | 2026-06-25 | 0 | 1 | 2 | 0 | 7 | 1 |
-| last180d | 2026-03-27 | 0 | 1 | 3 | 1 | 11 | 1 |
-| 360d | 2025-09-28 | 0 | 1 | 10 | 1 | 37 | 1 |
-| last720d | 2024-10-03 | 0 | 1 | 44 | 8 | 54 | 1 |
+| 30d | 2026-08-25 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-26 | 0 | 1 | 2 | 0 | 7 | 1 |
+| last180d | 2026-03-28 | 0 | 1 | 3 | 1 | 11 | 1 |
+| 360d | 2025-09-29 | 0 | 1 | 10 | 1 | 37 | 1 |
+| last720d | 2024-10-04 | 0 | 1 | 44 | 8 | 54 | 1 |
 
 ## Release 资产
 
@@ -1415,4 +1415,4 @@ hint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260923.yml` · 2026-09-23T06:49:30Z._
+_数据快照: `data/card/260924.yml` · 2026-09-24T06:00:05Z._
