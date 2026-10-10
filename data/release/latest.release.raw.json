@@ -5179,7 +5179,7 @@
       "state": "uploaded",
       "size": 8722952,
       "digest": null,
-      "download_count": 47,
+      "download_count": 49,
       "created_at": "2019-11-13T01:30:58Z",
       "updated_at": "2019-11-13T01:30:58Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/5da94271021b79e8dd4456dfec5546564250bc95.zip"
