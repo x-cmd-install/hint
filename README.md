@@ -30,9 +30,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,701 · **Forks**: 824 · **Open issues**: 1,891 · **Contributors**: 101
+- **Stars**: 3,701 · **Forks**: 823 · **Open issues**: 1,891 · **Contributors**: 101
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last180d | 2026-04-25 | 0 | 1 | 1 | 0 | 11 | 1 |
-| 360d | 2025-10-27 | 0 | 1 | 7 | 1 | 34 | 1 |
-| last720d | 2024-11-01 | 0 | 1 | 21 | 8 | 53 | 1 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last180d | 2026-04-26 | 0 | 1 | 1 | 0 | 11 | 1 |
+| 360d | 2025-10-28 | 0 | 1 | 7 | 1 | 34 | 1 |
+| last720d | 2024-11-02 | 0 | 1 | 21 | 8 | 53 | 1 |
 
 ## Release assets
 
@@ -1415,4 +1415,4 @@ Install metadata for hint lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:58:09Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:05:00Z._
