@@ -48138,10 +48138,10 @@
   "body": "Fake release to host all the compiled files from master.",
   "reactions": {
     "url": "https://api.github.com/repos/webhintio/hint/releases/20378720/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
-    "laugh": 1,
+    "laugh": 2,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
