@@ -13387,7 +13387,7 @@
       "state": "uploaded",
       "size": 7127054,
       "digest": null,
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2020-03-14T07:44:38Z",
       "updated_at": "2020-03-14T07:44:39Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/e8f465d9e7be5cd08d2e0b16a2864058f18b722f.zip"
@@ -13927,7 +13927,7 @@
       "state": "uploaded",
       "size": 33362239,
       "digest": null,
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2020-03-16T19:23:03Z",
       "updated_at": "2020-03-16T19:23:03Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/652585cce1279f2361c277774b9a4ee2adf879de.zip"
@@ -14719,7 +14719,7 @@
       "state": "uploaded",
       "size": 33766386,
       "digest": null,
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2020-04-11T10:00:44Z",
       "updated_at": "2020-04-11T10:00:45Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/441c2af2873b7d40dc94668b88b8cbf492fd31dc.zip"
@@ -15079,7 +15079,7 @@
       "state": "uploaded",
       "size": 33784274,
       "digest": null,
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2020-04-15T21:03:50Z",
       "updated_at": "2020-04-15T21:03:51Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/aac5c63efabc6336e3cfffdb529a58d5e2a1a0bc.zip"
@@ -15187,7 +15187,7 @@
       "state": "uploaded",
       "size": 33785513,
       "digest": null,
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2020-04-16T17:04:07Z",
       "updated_at": "2020-04-16T17:04:08Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/8a31df8d39155445b25be170f9611f4c5ab6c923.zip"
@@ -15259,7 +15259,7 @@
       "state": "uploaded",
       "size": 33783989,
       "digest": null,
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2020-04-17T17:04:44Z",
       "updated_at": "2020-04-17T17:04:45Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/1ac400fd5a5c9c8865a4b5b4a22c67ca8e46f2ef.zip"
@@ -15403,7 +15403,7 @@
       "state": "uploaded",
       "size": 33780705,
       "digest": null,
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2020-04-18T08:54:40Z",
       "updated_at": "2020-04-18T08:54:41Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/23e0696c6a89cde8a08ad8d624a577a4a5121078.zip"
@@ -15439,7 +15439,7 @@
       "state": "uploaded",
       "size": 33779784,
       "digest": null,
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2020-04-18T09:28:07Z",
       "updated_at": "2020-04-18T09:28:08Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/3b09a30772b66da5d07de67c2ea1237851782eba.zip"
@@ -15799,7 +15799,7 @@
       "state": "uploaded",
       "size": 33762299,
       "digest": null,
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2020-04-25T10:53:27Z",
       "updated_at": "2020-04-25T10:53:28Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/d3e0d9c3c075dbbbe61746d93151d4aae3d6fcf4.zip"
@@ -16015,7 +16015,7 @@
       "state": "uploaded",
       "size": 33843021,
       "digest": null,
-      "download_count": 55,
+      "download_count": 56,
       "created_at": "2020-04-27T20:06:42Z",
       "updated_at": "2020-04-27T20:06:43Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/bdc454b58964f371b391c1cd0adeec1e4a79c01b.zip"
@@ -16231,7 +16231,7 @@
       "state": "uploaded",
       "size": 33869136,
       "digest": null,
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2020-05-02T09:37:53Z",
       "updated_at": "2020-05-02T09:37:57Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/0157f50827cedd588e5cbe40b6577433ec56455d.zip"
@@ -42871,7 +42871,7 @@
       "state": "uploaded",
       "size": 42307894,
       "digest": null,
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2021-10-05T16:48:51Z",
       "updated_at": "2021-10-05T16:48:52Z",
       "browser_download_url": "https://github.com/webhintio/hint/releases/download/dist/112d41e236eed569bdca6c1d1f0eb9cf605f844f.zip"
