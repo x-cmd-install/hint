@@ -30,9 +30,9 @@ x install hint
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (2/10) — Found 5/24 approved changesets -- score normalized to 2
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install hint
 
 ## 流行度
 
-- **Star**: 3,702 · **Fork**: 822 · **开放 issue**: 1,891 · **贡献者**: 101
+- **Star**: 3,702 · **Fork**: 821 · **开放 issue**: 1,891 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 954 · **已合并 PR**: 2582 · **开放 PR**: 157 · **已关闭 issue**: 1518 · **开放 issue**: 373 · **提交数**: 6373
+- **发布数**: 954 · **已合并 PR**: 2582 · **开放 PR**: 158 · **已关闭 issue**: 1518 · **开放 issue**: 373 · **提交数**: 6373
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-21 | 0 | 1 | 1 | 0 | 11 | 1 |
-| 360d | 2025-11-22 | 0 | 1 | 6 | 1 | 29 | 1 |
-| last720d | 2024-11-27 | 0 | 1 | 21 | 8 | 53 | 1 |
+| 30d | 2026-10-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 1 | 2 | 0 | 11 | 1 |
+| 360d | 2025-11-24 | 0 | 1 | 7 | 1 | 28 | 1 |
+| last720d | 2024-11-29 | 0 | 1 | 22 | 8 | 53 | 1 |
 
 ## Release 资产
 
@@ -1415,4 +1415,4 @@ hint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T11:11:36Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:38:39Z._
